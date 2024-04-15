@@ -2,6 +2,8 @@
 
 The official PyTorch implementation of the paper "Multi-scale Restoration of Missing Data in Optical Time-series Images with Masked Spatial-Temporal Attention Network".
 
+MS$^2$TAN is named after Multi-scale Masked Spatial-Temporal Attention Network.
+
 ## Introduction of Proposed Method
 
 The overall flowchart of the proposed method consists of two main components: a Multi-scale Restoration Network (named MS$^2$TAN) with MSTA-based Feature Extractors, and a ``Pixel-Structure-Perception'' Multi-Objective Joint Optimization method.
